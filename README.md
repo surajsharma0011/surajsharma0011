@@ -1,30 +1,99 @@
 <h1 align="center">Hi 👋, I'm Suraj Sharma</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align-"right" alt="coding" width="400" "scr="https:cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | DSA Enthusiast</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsharma0011&label=Profile%20views&color=0e75b6&style=flat" alt="surajsharma0011" /> </p>
-
-<p align="left"> <a href="https://twitter.com/suraj_sharma45" target="blank"><img src="https://img.shields.io/twitter/follow/suraj_sharma45?logo=twitter&style=for-the-badge" alt="suraj_sharma45" /></a> </p>
-
-- 🌱 I’m currently learning **React Native,**
-
-- 💬 Ask me about **Mern,vue**
-
-- 📫 How to reach me **Surajsharma4501@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/suraj_sharma45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suraj_sharma45" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suraj sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj sharma" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Expert;DSA+Lover;Future+FAANG+Engineer&center=true&width=500&height=45">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajsharma0011&show_icons=true&locale=en&layout=compact" alt="surajsharma0011" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajsharma0011&show_icons=true&locale=en" alt="surajsharma0011" /></p>
+## 👨‍💻 About Me
+- 🌱 Currently learning **React Native & System Design**
+- 💬 Ask me about **MERN Stack, Vue, APIs**
+- 🧠 Strong in **Data Structures & Algorithms**
+- 🎯 Goal: Crack **FAANG / Product-based companies**
+- ⚡ Fun fact: I debug faster with coffee ☕
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajsharma0011&" alt="surajsharma0011" /></p>
+---
 
+## 🌍 Portfolio & Contact
+- 📧 Email: **Surajsharma4501@gmail.com**
+- 🌐 Portfolio: *(Add your portfolio link here)*
+- 💼 LinkedIn: *(Fix your correct link)*
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,cpp,python,php,vue,html,css" />
+</p>
+
+---
+
+## 🔥 Featured Projects (Make These Strong!)
+| Project | Tech | Description |
+|--------|------|------------|
+| 🛒 E-Commerce App | MERN | Auth, Payments, Admin Dashboard |
+| 💬 Chat App | Socket.io | Real-time messaging system |
+| 📱 Mobile App | React Native | Cross-platform app |
+
+👉 Add GitHub links here
+
+---
+
+## 📈 Coding Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=surajsharma0011&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajsharma0011&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 DSA & Competitive Programming
+- 🧩 Solved **500+ problems**
+- 💻 LeetCode: *(Add link)*
+- ⚔️ Codeforces: *(Add link)*
+- 🏆 GeeksforGeeks: *(Add link)*
+
+---
+
+## 🏆 Achievements & Certifications
+- 🥇 Built scalable full-stack apps
+- 📜 Completed web development courses
+- 🚀 Active GitHub contributor
+
+---
+
+## 📊 Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajsharma0011&theme=tokyo-night" />
+</p>
+
+---
+
+## 🧰 Tools I Use
+- 💻 VS Code
+- 🔧 Git & GitHub
+- 🐳 Docker (Learning)
+- ☁️ AWS (Beginner)
+
+---
+
+## 🎯 2026 Goals
+- 🚀 Crack product-based company
+- 📱 Build 3+ React Native apps
+- 🧠 Master System Design
+- 🏆 Reach 1000+ DSA problems
+
+---
+
+## 💡 Dev Quote
+> "Consistency beats talent when talent doesn’t work hard."
+
+---
+
+<p align="center">
+🔥 Thanks for visiting my profile! Let's build something amazing 🚀
+</p>
